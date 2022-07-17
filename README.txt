@@ -1,5 +1,5 @@
 # Nonlinear isogeometric analysis of thin-walled structures 
-# - nligaStruc
+# - nligaStruct
 
 ------------------------------------------------------------
 This is the README file of the open-source library nligaStruct: 
