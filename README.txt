@@ -74,4 +74,6 @@ to contact us!
 - duxiaoxiao@buaa.edu.cn. 
 
 Citation:
-Xiaoxiao Du, Gang Zhao, Ran Zhang, Wei Wang, Jiaming Yang. Numerical implementation for isogeometric analysis of thin-walled structures based on a Bézier extraction framework: nligaStruct. Thin-Walled Structures.
+Xiaoxiao Du, Gang Zhao, Ran Zhang, Wei Wang, Jiaming Yang. Numerical implementation for 
+isogeometric analysis of thin-walled structures based on a Bézier extraction framework: 
+nligaStruct. Thin-Walled Structures.
