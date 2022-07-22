@@ -76,4 +76,4 @@ to contact us!
 Citation:
 Xiaoxiao Du, Gang Zhao, Ran Zhang, Wei Wang, Jiaming Yang. Numerical implementation for 
 isogeometric analysis of thin-walled structures based on a Bézier extraction framework: 
-nligaStruct. Thin-Walled Structures.
+nligaStruct. Thin-Walled Structures. 2022.
